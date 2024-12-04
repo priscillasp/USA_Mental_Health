@@ -1,7 +1,7 @@
 # **US Mental Health Data Analysis and Visualization**  
 
 ## **Project Overview**  
-The project demonstrates my expertise in sourcing, cleaning, analyzing, and visualizing large-scale mental health datasets, along with proposing data-driven implementation ideas based on the insights. You can find the code in the main.ipynb. 
+The project demonstrates my expertise in sourcing, cleaning, analyzing, and visualizing large-scale mental health datasets, along with proposing data-driven implementation ideas based on the insights. You can find the code in the main.ipynb file. 
 
 The primary goal was to extract meaningful insights from nationally representative mental health data to inform actionable strategies to improve behavioral health systems. 
 
